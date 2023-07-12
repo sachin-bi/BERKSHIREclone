@@ -1,0 +1,7 @@
+ Task 
+1. Clone Berkshire Hathaway's website by only using HTML5. Make the clone as similar as possible
+2. Learn about semantic tags, why are they used and implement them in the clone
+3. Learn about the difference between tags vs elements
+4. Study about media, multimedia and hypermedia
+
+Report back to me by 10-07-23 Monday 11
