@@ -5,3 +5,5 @@
 4. Study about media, multimedia and hypermedia
 
 Report back to me by 10-07-23 Monday 11
+
+note: learned about git remot, html element , tags, hypermedia, multimedia
